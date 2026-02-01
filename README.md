@@ -1,4 +1,4 @@
-# Blog_microservice 🚀
+# Blog_microservice
 
 **FastAPI-based Blog microservice** with JWT authentication, SQLite , and simple user/blog CRUD endpoints.
 
